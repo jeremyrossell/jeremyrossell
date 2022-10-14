@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/jrmyrossell) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/jeremyrossell) [![Mail](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:jeremyrossell@protonmail.com)
+
+
 <!--
 **jeremyrossell/jeremyrossell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
