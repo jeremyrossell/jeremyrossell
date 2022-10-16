@@ -1,19 +1,24 @@
-### Hi there 👋
+  <!--- Header -->
+<div align="center">
+  <h1>Hello there, I'm <a href="https://i.imgur.com/4hThFKL.gif">Jeremy</a> <img src="https://i.imgur.com/0FLvFCN.gif" width="25px"> </h1>
+    <img src="https://img.shields.io/badge/-self taught computer scientist-171515?style=for-the-badge&logo=Atom&logoColor=ffffff"> 
+</div>
 
-[![GitHub](https://img.shields.io/badge/-github-171515?style=for-the-badge&logo=Github&logoColor=ffffff)](https://github.com/jeremyrossell) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/jeremyrossell) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/jrmyrossell) [![Mail](https://img.shields.io/badge/-mail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:jeremyrossell@protonmail.com)
+
+  <!--- Social media -->
+<p align="center">
+  <a href="https://github.com/jeremyrossell">
+    <img src="https://img.shields.io/badge/-github-171515?style=for-the-badge&logo=Github&logoColor=ffffff"></a>
+  <a href="https://linkedin.com/in/jeremyrossell">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"></a>
+  <a href="https://twitter.com/jrmyrossell">
+    <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff"></a>
+  <a href="mailto:jeremyrossell@protonmail.com">
+    <img src="https://img.shields.io/badge/-mail-171515?style=for-the-badge&logo=Gmail&logoColor=ffffff"></a>
+</p>
 
 
-<!--
-**jeremyrossell/jeremyrossell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!--- Bottom banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jeremyrossell/jeremyrossell/main/assets/bottom.svg" alt="Github Stats" />
+</p>
