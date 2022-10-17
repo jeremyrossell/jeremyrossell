@@ -48,13 +48,14 @@
       <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
-### Frame-work stack:
+### • 🧰 Frame-work Stack:
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash">
-      <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+  <a href="https://github.com/search?q=discord.py">
+    <img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
+  <a href="https://github.com/search?q=django">
+    <img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Django-0d1620.svg?logo=django"></a>
 </p>
-
-
+    
 
   <!--- Bottom banner -->
 <p align="center">
