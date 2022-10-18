@@ -56,12 +56,14 @@
     <img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
   <a href="https://github.com/search?q=django">
     <img alt="Django" src="https://custom-icon-badges.demolab.com/badge/Django-0d1620.svg?logo=django"></a>
-    <!-- <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>-->
-    <!-- <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>-->
-    <!-- <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>-->
+      <!-- <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>-->
+      <!-- <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>-->
+      <!-- <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>-->
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-    <!-- <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>-->
+      <!-- <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>-->
+      <!-- <a href="#"><img alt="React" src="https://img.shields.io/badge/-React-171515?logo=React&logoColor=navyblue"/></a>-->
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+      <!-- <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-42B883?logo=Vue.js&logoColor=white"/></a>-->
 </p>
 
 ### • 👩‍💻 Software & Tools:
@@ -70,6 +72,7 @@
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
     <a href="#"><img alt="Chromium" src="https://img.shields.io/badge/-Chromium based browsers-FB542B?logo=googlechrome&logoColor=white"></a>
+    <a href="#"><img alt="Debian" src="https://img.shields.io/badge/-Debian-A80030?logo=Debian&logoColor=white"/></a>
     <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
@@ -77,7 +80,9 @@
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
+    <a href="#"><img alt="InVision Studio" src="https://img.shields.io/badge/-InVision Studio-FF4785?logo=invision&logoColor=white"/></a>
     <!-- <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a> -->
+    <a href="#"><img alt="Debian" src="https://img.shields.io/badge/-Debian-A80030?logo=Debian&logoColor=white"/></a>
     <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/-Microsoft Excel-1d6f42?logo=microsoftexcel&logoColor=white"></a>
     <a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/-Microsoft Office-F25022?logo=microsoftoffice&logoColor=white"></a>
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
@@ -85,6 +90,7 @@
     <!-- <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a> -->
     <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?logo=Trello&logoColor=white"/></a>
     <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal Engine-121011?logo=unrealengine&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
