@@ -90,7 +90,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/q39HPw7.gif" alt="Github Stats"/>
+  <img src="https://i.imgur.com/W94aLsG.gif" alt="Banner"/>
 </p>
 
 <br>
