@@ -89,6 +89,10 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/q39HPw7.gif" alt="Github Stats"/>
+</p>
+
 <br>
 
 <details>
