@@ -90,7 +90,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/W94aLsG.gif" alt="Banner"/>
+  <img src="https://i.imgur.com/GGXoHvk.gif" alt="Banner"/>
 </p>
 
 <br>
