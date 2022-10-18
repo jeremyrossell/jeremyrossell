@@ -2,7 +2,7 @@
 
 <!--- Header -->
 <div align="center">
-  <h1>Welcome to <a href="https://i.imgur.com/4hThFKL.gif">Jeremy Rossell's</a> profile! <img src="https://i.imgur.com/0FLvFCN.gif" width="25px"></h1>
+  <h1>Welcome to <a href="/assets/kiwi.gif">Jeremy Rossell's</a> profile! <img src="/assets/pato.gif" width="25px"></h1>
     <img src="https://img.shields.io/badge/-self taught computer scientist-171515?style=for-the-badge&logo=Atom&logoColor=ffffff"> 
 </div>
 
