@@ -82,7 +82,7 @@
     <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
     <a href="#"><img alt="InVision Studio" src="https://img.shields.io/badge/-InVision Studio-FF4785?logo=invision&logoColor=white"/></a>
     <!-- <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a> -->
-    <a href="#"><img alt="Debian" src="https://img.shields.io/badge/-Debian-A80030?logo=Debian&logoColor=white"/></a>
+    <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/-Kali Linux-78909c?logo=KaliLinux&logoColor=white"/></a>
     <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/-Microsoft Excel-1d6f42?logo=microsoftexcel&logoColor=white"></a>
     <a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/-Microsoft Office-F25022?logo=microsoftoffice&logoColor=white"></a>
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
