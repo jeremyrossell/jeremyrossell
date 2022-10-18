@@ -79,7 +79,7 @@
     <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
     <!-- <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a> -->
     <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/-Microsoft Excel-1d6f42?logo=microsoftexcel&logoColor=white"></a>
-    <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/-Microsoft Office-F25022?logo=microsoftoffice&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/-Microsoft Office-F25022?logo=microsoftoffice&logoColor=white"></a>
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
     <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
     <!-- <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a> -->
@@ -91,7 +91,8 @@
 
 <br>
 
-<h2 align="center"><img src="https://i.imgur.com/1MducU2.gif" width="25px"><a href="https://www.britannica.com/science/statistics"> Statistics <img src="https://i.imgur.com/1MducU2.gif" width="25px"></a></h2>
+<details>
+<summary><h2><img src="https://i.imgur.com/1MducU2.gif" width="20px"> Statistics</h2></summary>
 <p align=center>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
@@ -104,6 +105,7 @@
 
   <img src="https://activity-graph.herokuapp.com/graph?username=jeremyrossell&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+</details>
 
   <!--- Bottom banner -->
 <p align="center">
