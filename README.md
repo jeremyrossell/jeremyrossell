@@ -69,10 +69,8 @@
 ### • 👩‍💻 Software & Tools:
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe Creative Cloud-FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
     <a href="#"><img alt="Chromium" src="https://img.shields.io/badge/-Chromium based browsers-FB542B?logo=googlechrome&logoColor=white"></a>
-    <a href="#"><img alt="Debian" src="https://img.shields.io/badge/-Debian-A80030?logo=Debian&logoColor=white"/></a>
     <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
@@ -82,7 +80,6 @@
     <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
     <a href="#"><img alt="InVision Studio" src="https://img.shields.io/badge/-InVision Studio-FF4785?logo=invision&logoColor=white"/></a>
     <!-- <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a> -->
-    <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/-Kali Linux-78909c?logo=KaliLinux&logoColor=white"/></a>
     <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/-Microsoft Excel-1d6f42?logo=microsoftexcel&logoColor=white"></a>
     <a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/-Microsoft Office-F25022?logo=microsoftoffice&logoColor=white"></a>
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
