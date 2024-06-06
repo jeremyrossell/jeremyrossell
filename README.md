@@ -37,9 +37,14 @@
         <a href="https://github.com/search?q=rust"><img alt="Rust" src="https://img.shields.io/badge/Rust-f25c04.svg?logo=rust&logoColor=white"></a>
         <a href="https://github.com/search?q=sql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     </p>
-    <p><b>Frameworks:</b>
+    <p><b>Frameworks & Libraries:</b>
         <a href="https://github.com/search?q=discord.py"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
         <a href="https://github.com/search?q=django"><img alt="Django" src="https://custom-icon-badges.demolab.com/badge/Django-0d1620.svg?logo=django"></a>
+        <a href="https://github.com/search?q=numpy"><img alt="NumPy" src="https://custom-icon-badges.demolab.com/badge/NumPy-0d1620.svg?logo=numpy"></a>
+        <a href="https://github.com/search?q=pandas"><img alt="Pandas" src="https://custom-icon-badges.demolab.com/badge/Pandas-0d1620.svg?logo=pandas"></a>
+        <a href="https://github.com/search?q=pytorch"><img alt="PyTorch" src="https://custom-icon-badges.demolab.com/badge/PyTorch-0d1620.svg?logo=pytorch"></a>
+        <a href="https://github.com/search?q=scipy"><img alt="SciPy" src="https://custom-icon-badges.demolab.com/badge/SciPy-0d1620.svg?logo=scipy"></a>
+        <a href="https://github.com/search?q=tensorflow"><img alt="Tensorflow" src="https://custom-icon-badges.demolab.com/badge/Tensorflow-0d1620.svg?logo=tensorflow"></a>
     </p>
     <p><b>Database management systems:</b>
         <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
@@ -52,7 +57,7 @@
         <a href="https://github.com/search?q=markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     </p>
     <p><b>Developer tools:</b>
-        <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-000000.svg?logo=amazon&logoColor=white"></a>
+        <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-000000.svg?logo=amazon"></a>
         <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"></a>
         <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-FF3B00?logo=figma&logoColor=white"/></a>
         <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
