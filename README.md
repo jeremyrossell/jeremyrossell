@@ -22,9 +22,21 @@
 <!--- Skill Set -->
 <h2 align="center">I work on back-end, machine learning & data science.</h2>
 <details><summary><h2>A quick glance of my skills</h2></summary>
+    <p><b>Version control:</b>
+        <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    </p>
     <p><b>Shell terminals:</b>
         <a href="https://github.com/search?q=bash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
         <a href="https://github.com/search?q=zsh"><img alt="Zsh" src="https://img.shields.io/badge/Zsh-121011.svg?logo=zsh&logoColor=white"></a>
+    </p>
+    <p><b>Cloud:</b>
+        <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-000000.svg?logo=amazon"></a>
+        <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+    </p>
+    <p><b>Virtualization:</b>
+        <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+        <a href="#"><img alt="Virtual Box" src="https://img.shields.io/badge/Virtual Box-183A61.svg?logo=virtualbox"></a>
+        <a href="#"><img alt="VMWare" src="https://img.shields.io/badge/VMWare-F88C04.svg?logo=vmware&logoColor=white"></a>
     </p>
     <p><b>Programming languages:</b>
         <a href="https://github.com/search?q=c"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -47,6 +59,7 @@
         <a href="https://github.com/search?q=tensorflow"><img alt="Tensorflow" src="https://custom-icon-badges.demolab.com/badge/Tensorflow-0d1620.svg?logo=tensorflow"></a>
     </p>
     <p><b>Database management systems:</b>
+        <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"></a>
         <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
         <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
         <a href="#"><img alt="PowerBI" src ="https://img.shields.io/badge/PowerBI-fccc1c.svg?logo=powerbi&logoColor=black"></a>
@@ -56,27 +69,26 @@
         <a href="https://github.com/search?q=latex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
         <a href="https://github.com/search?q=markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     </p>
-    <p><b>Developer tools:</b>
-        <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-000000.svg?logo=amazon"></a>
-        <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"></a>
+    <p><b>Prototyping:</b>
         <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-FF3B00?logo=figma&logoColor=white"/></a>
-        <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-        <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-        <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
         <a href="#"><img alt="Penpot" src="https://img.shields.io/badge/Penpot-FFFFFF?logo=penpot&logoColor=black"/></a>
+    </p>
+    <p><b>Development tools:</b>
+        <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
         <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
         <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal Engine-121011?logo=unrealengine&logoColor=white"></a>
-        <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+        <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white"></a>
     </p>
     <p><b>Other tools:</b>
-        <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe Software-FF0000.svg?logo=adobe&logoColor=white"></a>
+        <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe Suite-FF0000.svg?logo=adobe&logoColor=white"></a>
+        <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D.svg?logo=blender&logoColor=white"></a>
         <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
         <a href="#"><img alt="InVision Studio" src="https://img.shields.io/badge/-InVision Studio-FF4785?logo=invision&logoColor=white"/></a>
-        <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/-Microsoft Excel-1d6f42?logo=microsoftexcel&logoColor=white"></a>
+        <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/-Microsoft Excel-1d6f42?logo=excel&logoColor=white"></a>
         <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
         <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
     </p>
-    <p><h3 align="center">I'm also fluent in four languages & work with advanced math concepts, more info in my portfolio!</h3></p>
+    <p><h3 align="center">I'm also fluent in four languages & work with advanced math concepts, more info on my portfolio!</h3></p>
 </details>
 
 <p align="center">
