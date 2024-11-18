@@ -88,7 +88,7 @@
         <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
         <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
     </p>
-    <p><h3 align="center">I'm also fluent in four languages & work with advanced math concepts, more info on my portfolio!</h3></p>
+    <p><h3 align="center">More info in my portfolio!</h3></p>
 </details>
 
 <p align="center">
