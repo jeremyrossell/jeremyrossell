@@ -2,7 +2,7 @@
 
 <!--- Header -->
 <div align="center">
-  <h1>Welcome to <a href="/assets/kiwi.gif">Jayden Rossell's</a> profile! <img src="/assets/pato.gif" width="25px"></h1>
+  <h1>Welcome to <a href="/assets/kiwi.gif">Jeremy Rossell's</a> profile! <img src="/assets/pato.gif" width="25px"></h1>
   <!--- Education -->
   <!--- <img src="https://custom-icon-badges.demolab.com/badge/-B.E. Computer Engineering-171515?style=for-the-badge&logo=itesm">--> <img src="https://custom-icon-badges.demolab.com/badge/-B.S. Computer Science-171515?style=for-the-badge&logo=uanl">
 </div>
