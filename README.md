@@ -40,4 +40,5 @@ I am a Backend Developer focused on building high-performance, memory-safe, and 
 
 **Frameworks & Toolkits:**
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Slint](https://img.shields.io/badge/Slint-2379F4?style=flat&logo=slint&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
