@@ -11,11 +11,11 @@
 ---
 
 ### About Me
-I am a Backend Developer focused on building high-performance, memory-safe, and scalable systems. Passionate about system architecture, low-latency design, and resource optimization under **Linux** environments.
+I am a backend developer focused on building high-performance, memory-safe, and scalable systems. Passionate about system architecture, low-latency design, and resource optimization under **Linux** environments.
 
 - Currently building robust backend infrastructure and APIs with **Python**, **Rust**, and **Go**.
 - Daily Linux user comfortable with **Bash scripting**, automation, and environment management.
-- Long-term trajectory toward **DevOps & Cloud Engineering**.
+- Long-term trajectory toward **DevOps**.
 
 ---
 
