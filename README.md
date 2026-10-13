@@ -24,7 +24,7 @@ I am a backend developer focused on building high-performance, memory-safe, and 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-D34516?style=flat&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-00007D?style=flat&logo=lua&logoColor=white)
 
 **Environment:**
